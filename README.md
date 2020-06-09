@@ -131,7 +131,7 @@ Our model achieves the following performance on :
 
 | Model name         | Accuracy        | Forgetting     |
 | ------------------ |---------------- | -------------- |
-| DOI                |   **31.48%**    |    **34.57%**  |
+| **DOI**            |   **31.48%**    |    **34.57%**  |
 | LwF                |     2.4%        |                |
 
 ### Cifar-100 random increment
