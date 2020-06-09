@@ -31,7 +31,7 @@ Please download python versions.
 After download, extract inside the current 'DOI' directory.
 If you have 'cifar-100-python' and 'cifar-10-batches-py' directories in the current directory, then you are ready.
 
-Run folling commands to prepare training and testing data:
+Run following commands to prepare training and testing data:
 
 ```dataset
 python cifar100.py
