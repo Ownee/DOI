@@ -5,9 +5,13 @@ This repository is the official implementation of [Datum-wise online incremental
 ## Requirements
 
 Python 2.7
+
 CUDA 8.0+
+
 CUDNN 6.0+
+
 Caffe (PyCaffe)
+
 
 To install Caffe, following link would be helpful:
 
@@ -27,6 +31,7 @@ The root directory name would be 'caffe' or 'caffe-master' which consists of 'sr
 ## Dataset
 
 We use Cifar-100 and Cifar-10. Downloadable from this [Link](https://www.cs.toronto.edu/~kriz/cifar.html)
+
 Please download python versions.
 After download, extract inside the current 'DOI' directory.
 If you have 'cifar-100-python' and 'cifar-10-batches-py' directories in the current directory, then you are ready.
