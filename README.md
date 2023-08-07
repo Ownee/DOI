@@ -1,6 +1,6 @@
 # Datum-wise online incremental factorization for deep convolutional neural network
 
-This repository is the official implementation of [Datum-wise online incremental factorization for deep convolutional neural network](https://arxiv.org/abs/2030.12345).
+This repository is the official implementation of 'Datum-wise online incremental factorization for deep convolutional neural network' which is submitted to the journal 'Sensors'.
 
 ## Requirements
 
